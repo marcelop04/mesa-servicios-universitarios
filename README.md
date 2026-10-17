@@ -7,7 +7,7 @@
 ## 1. Descripción General del Proyecto
 Esta plataforma web centraliza el registro, priorización, evaluación, asignación, atención, resolución y cierre de solicitudes de soporte informático, mantenimiento y servicios generales de la facultad. 
 
-El desarrollo se encuentra estructurado bajo un modelo modular, garantizando el aislamiento de responsabilidades entre los integrantes del equipo y cumpliendo con las especificaciones del Informe de Fase I.
+El desarrollo se encuentra estructurado bajo un modelo modular, garantizando el aislamiento de responsabilidades entre los integrantes del equipo y cumpliendo con las especificaciones del Informe de Fase I
 
 ---
 
